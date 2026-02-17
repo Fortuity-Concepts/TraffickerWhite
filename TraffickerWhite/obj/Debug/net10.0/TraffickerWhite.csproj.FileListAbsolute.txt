@@ -1,0 +1,14 @@
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\bin\Debug\net10.0\TraffickerWhite.exe
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\bin\Debug\net10.0\TraffickerWhite.deps.json
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\bin\Debug\net10.0\TraffickerWhite.runtimeconfig.json
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\bin\Debug\net10.0\TraffickerWhite.dll
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\bin\Debug\net10.0\TraffickerWhite.pdb
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.GeneratedMSBuildEditorConfig.editorconfig
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.AssemblyInfoInputs.cache
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.AssemblyInfo.cs
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.csproj.CoreCompileInputs.cache
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.dll
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\refint\TraffickerWhite.dll
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.pdb
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\TraffickerWhite.genruntimeconfig.cache
+B:\TraffickerConsoleGames\TraffickerWhite\TraffickerWhite\obj\Debug\net10.0\ref\TraffickerWhite.dll
