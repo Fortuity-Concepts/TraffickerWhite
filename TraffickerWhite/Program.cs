@@ -80,7 +80,7 @@ namespace TextAdventureGame
                         player.CurrentLocation = Location.Cave;
                         Console.WriteLine("You bravely step into the darkness and trip on a rock, losing 2 health.");
                         
-                        player.Health -= 2;
+                        player.TakeDamage(2);
                     }
                     else if (player.CurrentLocation == Location.Cave)
                     {

@@ -6,6 +6,7 @@ namespace TextAdventureGame
     {
         public int Health;
         public int Gold;
+        public int Experience;
         public string[] Inventory;
         public Location CurrentLocation;
 
@@ -17,6 +18,11 @@ namespace TextAdventureGame
 
             Inventory = new string[10];
 
+        }
+
+        public void TakeDamage(int amount)
+        {
+            Health -= amount;
         }
     }
 }
