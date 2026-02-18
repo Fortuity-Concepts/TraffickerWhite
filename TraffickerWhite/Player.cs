@@ -1,6 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
 
-namespace TraffickerWhite
+namespace TextAdventureGame
 {
     public class Player
     {

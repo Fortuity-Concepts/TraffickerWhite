@@ -1,4 +1,4 @@
-namespace TraffickerWhite;
+namespace TextAdventureGame;
 
 public enum Location
 {

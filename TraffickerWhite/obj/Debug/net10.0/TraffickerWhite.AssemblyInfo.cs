@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraffickerWhite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab12b106a7446f8946cdad23f109eb1da0315495")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12371193fd1cbfe3fa6aadb4abb86566cac1a7d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraffickerWhite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraffickerWhite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
