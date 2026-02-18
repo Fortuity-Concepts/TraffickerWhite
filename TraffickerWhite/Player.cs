@@ -10,10 +10,11 @@ namespace TextAdventureGame
         public string[] Inventory;
         public Location CurrentLocation;
 
-        public Player(int startingHealth, int startingGold, Location startingLocation)
+        public Player(int startingHealth, int startingGold, int startingExperience, Location startingLocation)
         {
             Health = startingHealth;
             Gold = startingGold;
+            Experience = startingExperience;
             CurrentLocation = startingLocation;
 
             Inventory = new string[10];
@@ -25,9 +26,29 @@ namespace TextAdventureGame
             Health -= amount;
         }
 
+        public void GiveHealth(int amount)
+        {
+            Health += amount;
+        }
+
         public void GiveGold(int amount)
         {
             Gold += amount;
+        }
+
+        public void TakeGold(int amount)
+        {
+            Gold -= amount;
+        }
+
+        public void GiveExperience(int amount)
+        {
+            Experience += amount;
+        }
+
+        public void TakeExperience(int amount)
+        {
+            Experience -+ amount;
         }
     }
 }
