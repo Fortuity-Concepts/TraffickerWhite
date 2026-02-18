@@ -120,7 +120,7 @@ namespace TextAdventureGame
                         }
 
                         Console.WriteLine("You also found 10 gold coins!");
-                        player.Gold += 10;
+                        player.GiveGold(10);
                     }
                     else
                     {

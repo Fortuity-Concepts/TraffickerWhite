@@ -24,5 +24,10 @@ namespace TextAdventureGame
         {
             Health -= amount;
         }
+
+        public void GiveGold(int amount)
+        {
+            Gold += amount;
+        }
     }
 }
